@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>privacy</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локалізовувані індексні слова</string>
+				<key>index</key>
+				<string>приватність, захищати, запобігати, секрет, сховати, приховати, захист, запобігання, заблокований, блокування, виключення, вилучення, виняток, запити до Siri, питати Siri, чекати «hey Siri», питати сірі</string>
+				<key>title</key>
+				<string>Не шукати приватні файли</string>
+			</dict>
+		</array>
+	</dict>
+	<key>searchResults</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Локалізовувані індексні слова</string>
+				<key>index</key>
+				<string>шукати, результати, влучність, пошуки, знаходити, пошук</string>
+				<key>title</key>
+				<string>Категорії пошуку Spotlight</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>privacy</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>gizlilik, koru, engelle, gizli, özel, korumalı, koru, izin verme, önle, engel, Siri önerileri ve gizlilik, privacy, protect, prevent, secret, hidden, protected, protecting, protection, preventing, prevention, blocked, blocking, Siri suggestions and privacy</string>
+				<key>title</key>
+				<string>Özel dosyaların aranmasını engelleme</string>
+			</dict>
+		</array>
+	</dict>
+	<key>searchResults</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Yerelleştirilebilir dizin sözcükleri</string>
+				<key>index</key>
+				<string>bulma, sonuçlar, bulunanlar, aramalar, arama, arananlar, find, results, hits, searches, searching, finding</string>
+				<key>title</key>
+				<string>Spotlight arama kategorileri</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

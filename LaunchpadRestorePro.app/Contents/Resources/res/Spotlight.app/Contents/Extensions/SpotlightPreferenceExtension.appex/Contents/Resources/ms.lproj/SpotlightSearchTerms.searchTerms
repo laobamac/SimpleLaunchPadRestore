@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>privacy</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>privasi, lindungi, cegah, rahsia, tersembunyi, dilindungi, melindungi, perlindungan, mencegah, pencegahan, disekat, menyekat, cadangan Siri dan privasi</string>
+				<key>title</key>
+				<string>Sekat carian fail peribadi</string>
+			</dict>
+		</array>
+	</dict>
+	<key>searchResults</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Perkataan indeks yang boleh disetempatkan</string>
+				<key>index</key>
+				<string>cari, hasil, padanan, carian, pencarian, mencari</string>
+				<key>title</key>
+				<string>Kategori carian Spotlight</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

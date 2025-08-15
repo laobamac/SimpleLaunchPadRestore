@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>privacy</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>로컬라이즈가 가능한 인덱스 단어</string>
+				<key>index</key>
+				<string>개인정보 보호, 보호, 차단, 비밀, 숨김, 보호됨, 보호하기, 보호, 차단하기, 차단함, 차단됨, 차단 중, Siri 제안 및 개인정보 보호</string>
+				<key>title</key>
+				<string>개인 파일 검색 차단</string>
+			</dict>
+		</array>
+	</dict>
+	<key>searchResults</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>로컬라이즈가 가능한 인덱스 단어</string>
+				<key>index</key>
+				<string>검색, 결과, 찾음, 검색 내용, 검색하기, 찾기</string>
+				<key>title</key>
+				<string>Spotlight 검색 카테고리</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

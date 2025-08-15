@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>privacy</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizálható indexszavak</string>
+				<key>index</key>
+				<string>adatvédelem, védelem, privát szféra, magán, magánszféra, meggátol, megakadályoz, titok, titkos, rejt, elrejt, rejtett, elrejtett, védett, védelem, levéd, levédés, blokkolt, blokkolás, tiltott, tiltás, Siri-javaslatok és adatvédelem</string>
+				<key>title</key>
+				<string>Privát fájlok keresésének blokkolása</string>
+			</dict>
+		</array>
+	</dict>
+	<key>searchResults</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizálható indexszavak</string>
+				<key>index</key>
+				<string>keres, keresés, találat, eredmény, találatok, eredmények, keresések, megtalál, megtalálás</string>
+				<key>title</key>
+				<string>Spotlight-keresési kategóriák</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

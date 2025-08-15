@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>privacy</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>απόρρητο, προστασία, αποτροπή, μυστικό, κρυφό, προστατευμένο, αποκλεισμός, προτάσεις Siri και απόρρητο</string>
+				<key>title</key>
+				<string>Αποκλεισμός αναζήτησης ιδιωτικών αρχείων</string>
+			</dict>
+		</array>
+	</dict>
+	<key>searchResults</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Τοπικοποιήσιμες λέξεις ευρετηρίου</string>
+				<key>index</key>
+				<string>εύρεση, αποτελέσματα, αναζητήσεις, αναζήτηση</string>
+				<key>title</key>
+				<string>Κατηγορίες αναζήτησης Spotlight</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

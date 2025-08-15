@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>privacy</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>privacy, beschermen, bescherming, voorkomen, voorkom, verhinderen, verhinder, geheim, verborgen, beschermd, beveiligen, beveiliging, beveiligd, geblokkeerd, blokkeren, blokkade, afschermen, afgeschermd, afscherming, Siri-suggesties en privacy</string>
+				<key>title</key>
+				<string>Zoeken van privébestanden blokkeren</string>
+			</dict>
+		</array>
+	</dict>
+	<key>searchResults</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokaliseerbare indextermen</string>
+				<key>index</key>
+				<string>zoeken, resultaten, hits, zoekopdrachten, zoek, vinden</string>
+				<key>title</key>
+				<string>Spotlight-zoekcategorieën</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

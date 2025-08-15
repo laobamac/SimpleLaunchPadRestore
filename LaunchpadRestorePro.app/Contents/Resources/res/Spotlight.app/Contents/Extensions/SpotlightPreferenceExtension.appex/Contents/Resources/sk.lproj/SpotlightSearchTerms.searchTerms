@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>privacy</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>súkromie, chrániť, zabrániť, tajný, skrytý, chránený, ochrana, ochrana, zabránenie, prevencia, blokovaný, blokovanie, návrhy Siri a súkromie</string>
+				<key>title</key>
+				<string>Blokovať vyhľadávanie v súkromných súboroch</string>
+			</dict>
+		</array>
+	</dict>
+	<key>searchResults</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Lokalizovateľné indexové slová</string>
+				<key>index</key>
+				<string>nájsť, výsledky, nájdených, vyhľadávania, vyhľadáva sa, hľadá sa</string>
+				<key>title</key>
+				<string>Vyhľadávacie kategórie Spotlightu</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

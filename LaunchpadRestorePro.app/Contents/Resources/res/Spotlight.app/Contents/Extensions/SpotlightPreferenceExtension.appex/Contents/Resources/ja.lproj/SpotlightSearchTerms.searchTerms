@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>privacy</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>privacy 個人 情報 プライバシー, protect 保護 プロテクト, prevent 防止, secret 秘密 シークレット 機密, hidden 隠す 隠された, protected 保護された, protecting, protection プロテクション, preventing 予防, prevention, blocked ブロック, blocking ブロッキング, Siri suggestions and privacy Siriからの提案とプライバシー シリからの提案とプライバシー Siriからの提案と個人情報 シリからの提案と個人情報</string>
+				<key>title</key>
+				<string>プライベートファイルの検索をブロック</string>
+			</dict>
+		</array>
+	</dict>
+	<key>searchResults</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>ローカライズ可能な索引の用語</string>
+				<key>index</key>
+				<string>find 検索, results 結果 リゾルト, hits ヒット, searches サーチ, searching サーチング, finding ファインディング</string>
+				<key>title</key>
+				<string>Spotlight検索のカテゴリ</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

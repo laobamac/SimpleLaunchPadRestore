@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>privacy</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>quyền riêng tư, bảo vệ, ngăn chặn, bí mật, bị ẩn, được bảo vệ, bảo vệ, phòng chống, phòng ngừa, bị chặn, chặn, quyền riêng tư và gợi ý của Siri</string>
+				<key>title</key>
+				<string>Chặn tìm kiếm các tệp riêng tư</string>
+			</dict>
+		</array>
+	</dict>
+	<key>searchResults</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Từ chỉ mục có thể bản địa hóa</string>
+				<key>index</key>
+				<string>tìm kiếm, kết quả, tìm kiếm, các tìm kiếm, đang tìm kiếm, tìm kiếm</string>
+				<key>title</key>
+				<string>Các danh mục tìm kiếm của Spotlight</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

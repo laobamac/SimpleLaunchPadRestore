@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>privacy</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>ความเป็นส่วนตัว, คุ้มครอง, ป้องกัน, ความลับ, ซ่อนอยู่, คุ้มครองอยู่, กำลังคุ้มครอง, การคุ้มครอง, กำลังป้องกัน, การป้องกัน, ปิดกั้นอยู่, กำลังปิดกั้น, คำแนะนำโดย Siri และความเป็นส่วนตัว</string>
+				<key>title</key>
+				<string>ปิดกั้นการค้นหาไฟล์ส่วนตัว</string>
+			</dict>
+		</array>
+	</dict>
+	<key>searchResults</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>คำดัชนีที่แปลได้</string>
+				<key>index</key>
+				<string>หา, ผลลัพธ์, เจอ, ค้นหา, กำลังหา, กำลังพบ, ผลการค้นหา</string>
+				<key>title</key>
+				<string>หมวดหมู่การค้นหาโดย Spotlight</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>

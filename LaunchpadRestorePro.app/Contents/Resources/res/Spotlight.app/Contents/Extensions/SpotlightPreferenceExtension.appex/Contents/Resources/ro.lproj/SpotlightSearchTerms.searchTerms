@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>privacy</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>intimitate, confidențialitate, proteja, împiedica, secret, ascuns, protejat, protejare, protecție, împiedicare, prevenire, blocat, blocare, sugestiile Siri și intimitate</string>
+				<key>title</key>
+				<string>Blocați căutarea fișierelor private</string>
+			</dict>
+		</array>
+	</dict>
+	<key>searchResults</key>
+	<dict>
+		<key>localizableStrings</key>
+		<array>
+			<dict>
+				<key>comments</key>
+				<string>Cuvinte de index localizabile</string>
+				<key>index</key>
+				<string>găsește, rezultate, căutări, căutare, găsire</string>
+				<key>title</key>
+				<string>Categorii de căutare Spotlight</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>
