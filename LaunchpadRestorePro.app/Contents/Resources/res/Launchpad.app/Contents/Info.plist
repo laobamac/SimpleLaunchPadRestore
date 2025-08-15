@@ -55,7 +55,7 @@
 	<key>LSRequiredFeatureFlags</key>
 	<dict>
 		<key>SpotlightUI/SpotlightPlus</key>
-		<true/>
+		<false/>
 	</dict>
 	<key>LSUIElement</key>
 	<true/>
