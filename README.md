@@ -32,7 +32,7 @@ One-key restore LaunchPad.
 ### 使用方法
 
 1. 下载最新RELEASE
-2.运行SimpleLaunchPadRestore.app
+2. 运行SimpleLaunchPadRestore.app
 3. 按照屏幕提示操作
 
 ## ⚠️ 重要警告
