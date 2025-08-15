@@ -198,6 +198,7 @@ EOT
         unmount_root
         exit 1
     }
+    rsync -a -r -i --delete "$RES_DIR/Launchpad.app" "$MOUNT_PATH/System/Applications/" && \
     chown -R root:wheel "$MOUNT_PATH/System/Applications/Apps.app" && \
     chmod -R 755 "$MOUNT_PATH/System/Applications/Apps.app" || {
         echo "设置Apps.app权限失败"
